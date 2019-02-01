@@ -23,3 +23,8 @@ Batch rename video files:
 ```
 npx mediarename --format '{date} - {location} - {recorder}' *.mp4
 ```
+
+## Bugs
+
+There's probably lots of 'em. [Create an issue or submit a merge request
+against the Github repo](https://github.com/AshKyd/msgmerge-json).

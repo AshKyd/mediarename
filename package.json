@@ -1,0 +1,26 @@
+{
+  "name": "ffmeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "mediarename": "./index.js"
+  },
+  "scripts": {
+    "test": "mocha test/**"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "cli-table": "^0.3.1",
+    "commander": "^2.19.0",
+    "dotty": "^0.1.0",
+    "find-nearest-cities": "^1.0.0",
+    "moment": "^2.24.0",
+    "string-format-obj": "^1.1.1"
+  }
+}
