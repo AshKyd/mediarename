@@ -6,7 +6,7 @@ Pulls metadata out of video files including time, recorder, and geodata to let
 you rename your media how best makes sense. Super helpful for unifying video
 from multiple sources.
 
-[![Usage in video](https://img.youtube.com/vi/jyGbjE1uTJI/maxresdefault.jpg)](https://www.youtube.com/watch?v=jyGbjE1uTJI)
+[![Usage in video](https://media.giphy.com/media/KyBcuqKuApY0xnVLAd/giphy.gif)](https://www.youtube.com/watch?v=jyGbjE1uTJI)
 
 NOTE: Depends on the system ffmpeg in your path. Install ffmpeg before running
 this app. On Mac use `brew install ffmpeg`. On Linux or Windows you'll need to
