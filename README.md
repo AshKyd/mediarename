@@ -12,6 +12,8 @@ NOTE: Depends on the system ffmpeg in your path. Install ffmpeg before running
 this app. On Mac use `brew install ffmpeg`. On Linux or Windows you'll need to
 work this out yourself.
 
+NOTE 2: Also depends on Node.js ^5.2.0 being installed.
+
 ## Usage
 
 List available metadata on a video file:
